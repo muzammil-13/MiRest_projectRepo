@@ -1,1 +1,1 @@
-<h1>Book Store with RESTful API</h1>
+<h1>sample Task management tool with RESTful API</h1>
